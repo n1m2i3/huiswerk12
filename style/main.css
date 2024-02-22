@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #252525;
+    color: black;
+    text-align: center;
+}
+
+header {
+    background-color: #f7ffaf;
+    height: 70px;
+}
+
+footer {
+    background-color: white;
+    height: 50px;
+}
+
+/*stijlen voor table */
+table {
+    margin: 100px auto;
+}
+
+td,
+th {
+    width: 100px;
+    height: 100px;
+}
+
+/*kolom één */
+#eten-tekst {
+    background-color: #4BF5AE;
+}
+
+#pizza-tekst {
+    background-color: #d5abff;
+}
+
+#tacos-tekst {
+    background-color: #ffff00ff;
+}
+
+#patat-tekst {
+    background-color: #ffb326;
+}
+
+/*kolom twee */
+#eten-afbeelding {
+    background-color: #ffffff;
+}
+
+#pizza-afbeelding {
+    background-color: #ff528c;
+
+}
+
+#tacos-afbeelding {
+    background-color: #383896;
+}
+
+#patat-afbeelding {
+    background-color: #857040;
+}
+
+
+/*kolom drie */
+#drankjes-tekst {
+    background-color: #deb887ff;
+}
+
+#koffie-tekst {
+    background-color: #9B7305;
+}
+
+#thee-tekst {
+    background-color: #F77647;
+}
+
+#bier-tekst {
+    background-color: #9FF19F
+}
+
+/*kolom vier */
+#drankjes-afbeelding {
+    background-color: #bc69f3a6;
+}
+
+#koffie-afbeelding {
+    background-color: #582f00;
+}
+
+#thee-afbeelding {
+    background-color: #257400;
+}
+
+#bier-afbeelding {
+    background-color: #018f70;
+}
